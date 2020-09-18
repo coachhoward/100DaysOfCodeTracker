@@ -12,6 +12,7 @@ CH
 
 ## My Repos
  1. [Challenges Repo](https://github.com/coachhoward/100DaysOfCodeTracker)
+ [Day 2](https://github.com/coachhoward/crud_frt_app)Added work to this
  1. [project 1 code]()
  1. [project 2 code]()
  1. [project 3 code]()
